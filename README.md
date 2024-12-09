@@ -1,0 +1,1 @@
+ simple example of a microservices architecture using Node.js and Express. We'll create two microservices: a User Service and a Product Service. The User Service will manage user data, while the Product Service will manage product data. We'll also include a simple API Gateway to route requests to the appropriate service.
